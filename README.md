@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fokaeha</h1>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif" width="300" alt="Coding gif"/>
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300" alt="Coding gif"/>
 </p>
 
 ---
